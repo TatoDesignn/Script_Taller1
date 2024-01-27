@@ -1,4 +1,9 @@
 <h1>Taller 1 📚</h1>
+<h2>Integrantes 🧍‍♂️</h2>
+<ul>
+  <li>Jose Santiago Restrepo C.</li>
+  <li>Santiago Piedrahita R.</li>
+</ul>
 <h2>Primer Punto 📊</h2>
 <h3>1-1. 2 sobre uso de funciones</h3>
 <p>Archivos Funciones1 y Funciones2</p>
@@ -17,3 +22,14 @@
 <p>Falta</p>
 <h2>Tercer Punto 📜</h2>
 <p>Archivo con fotografias en ComandoTerminal</p>
+<h2>Cuarto Punto 🎨</h2>
+<p>Archivo con fotografias en GitExercises</p>
+<h2>Quinto Punto 🎲</h2>
+<p>Ambos integrantes participaron en el ejercicio propuesto de la clase, en el cual se pedia imprimir los numeros impares entre un rango de n y m.</p>
+<h2>Sexto Punto 🌐</h2>
+<ul>
+  <li><strong>Conclusiones:</strong><br>Este taller busca recordar los fundamentos basicos de la programacion, como lo es las funciones, arreglos y ciclos, tambien tiene como objetivo repasar el uso de github y la terminal de una manera mas didactica. </li>
+  <li><strong>Bibliografia:</strong></li>
+  <li>-<a href="https://git-scm.com/doc">Link documentación github</a></li>
+  <li>-<a href="https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows">Link comandos terminal</a></li>
+</ul>
