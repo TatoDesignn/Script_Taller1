@@ -1,0 +1,8 @@
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Cadena1\Cadena1\bin\Debug\Cadena1.exe.config
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Cadena1\Cadena1\bin\Debug\Cadena1.exe
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Cadena1\Cadena1\bin\Debug\Cadena1.pdb
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Cadena1\Cadena1\obj\Debug\Cadena1.csproj.AssemblyReference.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Cadena1\Cadena1\obj\Debug\Cadena1.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Cadena1\Cadena1\obj\Debug\Cadena1.csproj.CoreCompileInputs.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Cadena1\Cadena1\obj\Debug\Cadena1.exe
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Cadena1\Cadena1\obj\Debug\Cadena1.pdb

@@ -1,0 +1,8 @@
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Array1\Array1\bin\Debug\Array1.exe.config
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Array1\Array1\bin\Debug\Array1.exe
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Array1\Array1\bin\Debug\Array1.pdb
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Array1\Array1\obj\Debug\Array1.csproj.AssemblyReference.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Array1\Array1\obj\Debug\Array1.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Array1\Array1\obj\Debug\Array1.csproj.CoreCompileInputs.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Array1\Array1\obj\Debug\Array1.exe
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Array1\Array1\obj\Debug\Array1.pdb

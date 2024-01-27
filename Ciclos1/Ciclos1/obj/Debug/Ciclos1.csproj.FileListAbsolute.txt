@@ -1,0 +1,8 @@
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Ciclos1\Ciclos1\bin\Debug\Ciclos1.exe.config
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Ciclos1\Ciclos1\bin\Debug\Ciclos1.exe
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Ciclos1\Ciclos1\bin\Debug\Ciclos1.pdb
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Ciclos1\Ciclos1\obj\Debug\Ciclos1.csproj.AssemblyReference.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Ciclos1\Ciclos1\obj\Debug\Ciclos1.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Ciclos1\Ciclos1\obj\Debug\Ciclos1.csproj.CoreCompileInputs.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Ciclos1\Ciclos1\obj\Debug\Ciclos1.exe
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Ciclos1\Ciclos1\obj\Debug\Ciclos1.pdb

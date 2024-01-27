@@ -1,0 +1,8 @@
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Funciones2\Funciones2\bin\Debug\Funciones2.exe.config
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Funciones2\Funciones2\bin\Debug\Funciones2.exe
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Funciones2\Funciones2\bin\Debug\Funciones2.pdb
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Funciones2\Funciones2\obj\Debug\Funciones2.csproj.AssemblyReference.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Funciones2\Funciones2\obj\Debug\Funciones2.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Funciones2\Funciones2\obj\Debug\Funciones2.csproj.CoreCompileInputs.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Funciones2\Funciones2\obj\Debug\Funciones2.exe
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Funciones2\Funciones2\obj\Debug\Funciones2.pdb
