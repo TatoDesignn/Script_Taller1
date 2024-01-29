@@ -19,7 +19,9 @@
   <li><strong>Escriba 10 palabras reservadas</strong><br>-Console<br>-string<br>-break<br>-continue<br>-Join<br>-Split<br>-int<br>-float<br>-While<br>-void</li>
 </ul>
 <h2>Segundo Punto 🔑</h2>
-<p>Para esta actividad se propone un codigo en c# el cual se encuentra en la carpeta "ActividadFunciones". Se busca que el usuario por me dio de las funciones complete el trabalenguas "Tres tristes tigres, tragaban trigo en un trigal, en tres tristes trastos, tragaban trigo tres tristes tigres<". El usuario debe hacer uso de las variables "Frase1,Frase2,Frase3,Frase4" y inicializarlas con las funciones "Primera(), Segunda(), Tercera(), Cuarta()" pasando sus respectivos parametros si lo requieren o corrigiendo la sintaxis de la funcion./p>
+<p>Para esta actividad se propone un codigo en c# el cual se encuentra en la carpeta "ActividadFunciones". Se busca que el usuario por me dio de las funciones complete el trabalenguas "Tres tristes tigres, tragaban trigo en un trigal, en tres tristes trastos, tragaban trigo tres tristes tigres<". El usuario debe hacer uso de las variables "Frase1,Frase2,Frase3,Frase4" y inicializarlas con las funciones "Primera(), Segunda(), Tercera(), Cuarta()" pasando sus respectivos parametros si lo requieren o corrigiendo la sintaxis de la funcion.</p>
+<img src="https://cdn.discordapp.com/attachments/726947569577492580/1201650535200206979/image.png?ex=65ca9745&is=65b82245&hm=a11a03bb02bdcb238043fee257046fcbeb21b615aaa7064c69aa2c6ce14555c6&">
+<a href="https://cdn.discordapp.com/attachments/726947569577492580/1201650284322107542/image.png?ex=65ca9709&is=65b82209&hm=2483901cb6d16aac33d1f80badc88accbc70e96598531ff77dcebe63b34dc2bd&">Link Solucion</a>
 <h2>Tercer Punto 📜</h2>
 <p>Archivo con fotografias en ComandoTerminal</p>
 <h2>Cuarto Punto 🎨</h2>
