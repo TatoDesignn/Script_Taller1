@@ -1,0 +1,7 @@
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller1\ActividadFunciones\bin\Debug\ActividadFunciones.exe.config
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller1\ActividadFunciones\bin\Debug\ActividadFunciones.exe
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller1\ActividadFunciones\bin\Debug\ActividadFunciones.pdb
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller1\ActividadFunciones\obj\Debug\ActividadFunciones.csproj.AssemblyReference.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller1\ActividadFunciones\obj\Debug\ActividadFunciones.csproj.CoreCompileInputs.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller1\ActividadFunciones\obj\Debug\ActividadFunciones.exe
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller1\ActividadFunciones\obj\Debug\ActividadFunciones.pdb

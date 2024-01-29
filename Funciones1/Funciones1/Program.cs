@@ -11,31 +11,36 @@ namespace Funciones1
     internal class Program
     {
 
-        static void Palindroma(string palabra, string invertida, int total, int conteo)
+        static string Palindroma(string palabra, string invertida, int total)
         {
+            string resultado = "";
+            int conteo = 1;
+
             for (int i = 0, j = 0; i < palabra.Length && j < invertida.Length; i++, j++)
             {
                 if (palabra[i] == invertida[j])
                 {
                     if (conteo == total)
                     {
-                        Console.WriteLine("Tu palabra es palindroma");
+                        resultado = "Tu palabra es palindroma";
                     }
                     conteo++;
                 }
                 else
                 {
-                    Console.WriteLine("Tu palabra no es palindroma");
+                    resultado = "Tu palabra no es palindroma";
                     break;
                 }
             }
+
+            return resultado;
         }
 
         static void Main(string[] args)
         {
-            string palabra, invertida;
+            string palabra, invertida, resultado;
             char[] arreglo;
-            int total, conteo = 1;
+            int total;
             bool activo = true;
 
             while (activo)
@@ -43,7 +48,7 @@ namespace Funciones1
                 Console.WriteLine("Escribe una palabra o escibe 'salir' para cerrar: ");
                 palabra = Console.ReadLine();
 
-                if(palabra != "salir")
+                if (palabra != "salir")
                 {
                     arreglo = palabra.ToCharArray();
 
@@ -53,7 +58,9 @@ namespace Funciones1
 
                     total = palabra.Length;
 
-                    Palindroma(palabra, invertida, total, conteo);
+                    resultado = Palindroma(palabra, invertida, total);
+
+                    Console.WriteLine(resultado);
                 }
                 else
                 {
