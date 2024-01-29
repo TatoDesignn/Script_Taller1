@@ -19,7 +19,7 @@
   <li><strong>Escriba 10 palabras reservadas</strong><br>-Console<br>-string<br>-break<br>-continue<br>-Join<br>-Split<br>-int<br>-float<br>-While<br>-void</li>
 </ul>
 <h2>Segundo Punto 🔑</h2>
-<p>Falta</p>
+<p>Para esta actividad se propone un codigo en c# el cual se encuentra en la carpeta "ActividadFunciones". Se busca que el usuario por me dio de las funciones complete el trabalenguas "Tres tristes tigres, tragaban trigo en un trigal, en tres tristes trastos, tragaban trigo tres tristes tigres<". El usuario debe hacer uso de las variables "Frase1,Frase2,Frase3,Frase4" y inicializarlas con las funciones "Primera(), Segunda(), Tercera(), Cuarta()" pasando sus respectivos parametros si lo requieren o corrigiendo la sintaxis de la funcion./p>
 <h2>Tercer Punto 📜</h2>
 <p>Archivo con fotografias en ComandoTerminal</p>
 <h2>Cuarto Punto 🎨</h2>
