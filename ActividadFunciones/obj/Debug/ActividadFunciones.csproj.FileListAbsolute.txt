@@ -5,3 +5,11 @@ D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller1\ActividadFunciones\obj\
 D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller1\ActividadFunciones\obj\Debug\ActividadFunciones.csproj.CoreCompileInputs.cache
 D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller1\ActividadFunciones\obj\Debug\ActividadFunciones.exe
 D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller1\ActividadFunciones\obj\Debug\ActividadFunciones.pdb
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\ActividadFunciones\bin\Debug\ActividadFunciones.exe.config
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\ActividadFunciones\bin\Debug\ActividadFunciones.exe
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\ActividadFunciones\bin\Debug\ActividadFunciones.pdb
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\ActividadFunciones\obj\Debug\ActividadFunciones.csproj.AssemblyReference.cache
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\ActividadFunciones\obj\Debug\ActividadFunciones.csproj.SuggestedBindingRedirects.cache
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\ActividadFunciones\obj\Debug\ActividadFunciones.csproj.CoreCompileInputs.cache
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\ActividadFunciones\obj\Debug\ActividadFunciones.exe
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\ActividadFunciones\obj\Debug\ActividadFunciones.pdb

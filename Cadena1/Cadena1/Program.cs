@@ -37,9 +37,16 @@ namespace Cadena1
                 if(palabra != "salir")
                 {
                     arreglo = palabra.Split(' ');
-                    resultado = Capitalizar(arreglo);
+                    if(arreglo.Length >= 3)
+                    {
+                        resultado = Capitalizar(arreglo);
 
-                    Console.WriteLine(resultado);
+                        Console.WriteLine(resultado);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Recuerda que deben ser minimo 3 palabras");
+                    }
                 }
                 else
                 {

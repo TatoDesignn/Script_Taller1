@@ -6,3 +6,11 @@ D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Cadena1\Cadena1\obj\Debug\Cade
 D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Cadena1\Cadena1\obj\Debug\Cadena1.csproj.CoreCompileInputs.cache
 D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Cadena1\Cadena1\obj\Debug\Cadena1.exe
 D:\Universidad\7. SEPTIMO SEMESTRE\Script\taller1\Cadena1\Cadena1\obj\Debug\Cadena1.pdb
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\Cadena1\Cadena1\bin\Debug\Cadena1.exe.config
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\Cadena1\Cadena1\bin\Debug\Cadena1.exe
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\Cadena1\Cadena1\bin\Debug\Cadena1.pdb
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\Cadena1\Cadena1\obj\Debug\Cadena1.csproj.AssemblyReference.cache
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\Cadena1\Cadena1\obj\Debug\Cadena1.csproj.SuggestedBindingRedirects.cache
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\Cadena1\Cadena1\obj\Debug\Cadena1.csproj.CoreCompileInputs.cache
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\Cadena1\Cadena1\obj\Debug\Cadena1.exe
+D:\Trabajos\Universidad\7 SEMESTRE\SCRIPT\Script_Taller1\Cadena1\Cadena1\obj\Debug\Cadena1.pdb
