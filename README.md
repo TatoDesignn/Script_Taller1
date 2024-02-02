@@ -34,4 +34,5 @@
   <li><strong>Bibliografia:</strong></li>
   <li>-<a href="https://git-scm.com/doc">Link documentación github</a></li>
   <li>-<a href="https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows">Link comandos terminal</a></li>
+  <li>-<a href="https://www.canva.com/design/DAF7pv2tAHo/eAisw0AqhhFmmTAsd8sy-A/edit?utm_content=DAF7pv2tAHo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link Presentación</a></li>
 </ul>
