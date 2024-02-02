@@ -16,7 +16,7 @@ namespace Ciclos1
 
             while (true)
             {
-                int conteo = 0;
+                int valor = 0, conteo = 0;
 
                 Console.WriteLine("Escribe la cantidad  o escibe 'salir' para cerrar:");
                 temp= Console.ReadLine();
@@ -29,7 +29,7 @@ namespace Ciclos1
                         {
                             if (conteo % 2 != 0)
                             {
-                                Console.WriteLine(conteo);
+                                valor += conteo;
                             }
                             else
                             {
@@ -38,6 +38,8 @@ namespace Ciclos1
                             }
                             conteo++;
                         } while (conteo <= numero);
+
+                        Console.WriteLine($"La suma de los primero {numero} impares es: {valor}");
                     }
                     else
                     {
